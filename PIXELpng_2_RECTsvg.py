@@ -166,10 +166,3 @@ def rename_png_and_save_svg(input_folder, output_folder):
 input_folder = 'png' ######################################### MODIFY NAME HERE
 output_folder = 'svg' ######################################### MODIFY NAME HERE
 rename_png_and_save_svg(input_folder, output_folder)
-
-
-
-# USE HERE:
-#input_path = 'sc2k nuclear plant correct colors.png'
-#output_path = 'output.svg'
-#png_to_svg(input_path, output_path)
